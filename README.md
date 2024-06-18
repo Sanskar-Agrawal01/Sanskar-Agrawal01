@@ -3,7 +3,7 @@
 Data Structure & Algorithms Reactjs based Projects.
 
 👯 I’m looking to collaborate on:
-Mernstack projects.
+Mernstack projects.  
 
 🌱 I’m currently learning:
 Data Structure & Algorithms and Operating Systems.
