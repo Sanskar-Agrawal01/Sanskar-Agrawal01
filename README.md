@@ -57,31 +57,10 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sanskar-Agrawal01/Sanskar-Agrawal01/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img height="00" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="0" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=Sanskar-Agrawal01&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
