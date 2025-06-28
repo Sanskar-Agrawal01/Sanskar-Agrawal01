@@ -1,10 +1,10 @@
 <h2 align="left">💫 About Me:</h2>
  
- 🔭 I’m currently working on:<br>Data Structure & Algorithms and React based Projects.
+ 🔭 I’m currently working on:<br>Data Structure & Algorithms and MERN as well as ML Projects.
   
-  👯 I’m looking to collaborate on: <br>Mernstack projects
+  👯 I’m looking to collaborate on: <br>Mernstack projects & Team Collaborations for hackathons and Projects on Real life problems.
  
- 🌱 I’m currently learning:<br>DSA & Operating Systems.
+ 🌱 I’m currently learning:<br>DSA & Software Development.
  
  💬 Ask me about: <br>JAVA ,DSA, JavaScript, React, and any general software development questions.
  
