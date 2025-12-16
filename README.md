@@ -1,76 +1,136 @@
-<h2 align="left">💫 About Me:</h2>
- 
- 🔭 I’m currently working on:<br>Data Structure & Algorithms and MERN as well as ML Projects.
-  
-  👯 I’m looking to collaborate on: <br>Mernstack projects & Team Collaborations for hackathons and Projects on Real life problems.
- 
- 🌱 I’m currently learning:<br>DSA & Software Development.
- 
- 💬 Ask me about: <br>JAVA ,DSA, JavaScript, React, and any general software development questions.
- 
- ⚡ Fun fact:<br> I love creating content.
- 
-###
+<h1 align="center">Sanskar Agrawal</h1>
+<p align="center">
+  <b>Full-Stack Engineer • Cloud & DevOps Practitioner • Problem Solver</b>
+</p>
+<p align="center">
+  <i>Building scalable products, engineering reliable deployments, and solving real-world problems with code.</i>
+</p>
 
-<br clear="both">
+---
+
+## 🧭 Engineering Philosophy
+
+I approach software development with a **product-first and systems-thinking mindset**. My focus is not only on making things work, but on making them **scalable, maintainable, observable, and deployable in real-world environments**.
+
+I enjoy bridging the gap between **development and deployment** — designing full-stack applications, containerizing them, automating pipelines, and deploying them to the cloud with reliability in mind.
+
+---
+
+## 🛠 What I’m Actively Engineering
+
+* **Algorithmic problem-solving systems** using Java (performance-focused DSA)
+* **Production-grade MERN applications** with authentication, role-based access, and REST APIs
+* **Containerized microservices** using Docker
+* **Cloud-native deployments** on AWS
+* **Infrastructure-aware applications** designed for scaling and monitoring
+
+---
+
+## 🧩 Areas of Deep Focus
+
+### ⚙️ Software Engineering
+
+* Data Structures & Algorithms (time/space optimization, patterns)
+* Object-Oriented Design & Clean Architecture
+* RESTful API design & backend scalability
+* State management and component architecture in React
+
+### 🌐 Full-Stack Development (MERN)
+
+* MongoDB schema design & indexing
+* Express.js middleware & API security
+* React (Hooks, reusable components, performance tuning)
+* End-to-end application workflows
+
+### ☁️ Cloud, DevOps & Deployment
+
+* **Docker**: Multi-stage builds, optimized images, container networking
+* **Kubernetes**: Pods, Services, Deployments, basic Helm concepts
+* **AWS**:
+
+  * EC2 for compute
+  * S3 for storage
+  * IAM for access control
+  * Basic VPC & networking understanding
+* CI/CD concepts (automated builds, test & deploy pipelines)
+* Deployment strategies (blue-green, rolling deployments – conceptual)
+
+---
+
+## 🧠 Technical Stack (Practical Experience)
+
+**Languages**
+
+* Java (Primary)
+* JavaScript
+* C# (Foundational)
+
+**Frontend**
+
+* React.js
+* HTML5, CSS3
+
+**Backend**
+
+* Node.js, Express.js
+* REST APIs
+
+**Databases**
+
+* MongoDB
+* SQL fundamentals
+
+**DevOps & Cloud**
+
+* Docker
+* Kubernetes (Beginner → Intermediate)
+* AWS (EC2, S3, IAM)
+
+**Tools**
+
+* Git & GitHub
+* Postman
+* VS Code
+
+---
+
+## 📈 Engineering Growth Path
+
+I am intentionally evolving toward a **Full-Stack + Cloud Engineer** role with strong fundamentals in:
+
+* Scalable backend systems
+* Cloud infrastructure awareness
+* Deployment automation
+* System reliability & performance
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-Agrawal01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanskar-Agrawal01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-Agrawal01&show_icons=true&count_private=true&theme=dracula" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanskar-Agrawal01&layout=compact&theme=dracula" height="160" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sanskaragrawal18/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  </a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+## 🤝 Collaboration Interests
 
-###
+* High-impact **real-world problem solving** projects
+* Hackathons with strong execution & architecture
+* Open-source projects in **backend, DevOps, or infra tooling**
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/sanskaragrawal01?igsh=MWdnb2VxMnJ3amxxdw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:agrawalsanskar54@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sanskaragrawal18/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 📬 Connect
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sanskaragrawal18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/yourprofile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanskaragrawal18/">LinkedIn</a> •
+  <a href="mailto:agrawalsanskar54@gmail.com">Email</a> •
+  <a href="https://www.instagram.com/sanskaragrawal01">Instagram</a> •
+  <a href="https://www.youtube.com/channel/yourchannel">YouTube</a>
+</p>
 
-###
+---
+
+<sub>⚡ This profile reflects an engineer in continuous evolution — learning, building, breaking, and scaling.</sub>
